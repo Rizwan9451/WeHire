@@ -14,3 +14,6 @@ This website will be used by companies in India and worldwide for Hiring softwar
 ![Home Page of Khabar Dekho](https://github.com/Rizwan9451/WeHire/blob/gh-pages/Images/6.png)
 
 ![Home Page of Khabar Dekho](https://github.com/Rizwan9451/WeHire/blob/gh-pages/Images/7.png)
+
+## Video
+
