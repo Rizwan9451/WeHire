@@ -1,0 +1,3 @@
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;margin:0}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}a{text-decoration:none}.carousel-inner,.carousel-item,.carousel-item.active,Carousel styling
+#introCarousel{height:100vh}.carousel-item:first-child,.carousel-item:nth-child(2),.carousel-item:nth-child(3){background-position:50%;background-repeat:no-repeat;background-size:cover}@media (min-width:992px){#introCarousel{margin-top:-58.59px}}.navbar .nav-link{color:#fff!important}
+/*# sourceMappingURL=main.76e55685.css.map*/
