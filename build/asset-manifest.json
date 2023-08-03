@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeHire/static/css/main.76e55685.css",
+    "main.js": "/WeHire/static/js/main.c1f6e646.js",
+    "static/js/787.ec704a7a.chunk.js": "/WeHire/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/WeHire/index.html",
+    "main.76e55685.css.map": "/WeHire/static/css/main.76e55685.css.map",
+    "main.c1f6e646.js.map": "/WeHire/static/js/main.c1f6e646.js.map",
+    "787.ec704a7a.chunk.js.map": "/WeHire/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76e55685.css",
+    "static/js/main.c1f6e646.js"
+  ]
+}
